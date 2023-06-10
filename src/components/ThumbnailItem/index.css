@@ -1,0 +1,17 @@
+/* Write your code here. */
+.thumbnail {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+.active-img {
+  opacity: 1;
+}
+.inactive-img {
+  opacity: 0.5;
+}
